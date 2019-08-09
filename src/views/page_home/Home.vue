@@ -30,7 +30,7 @@ export default {
       objTab: [
         {
           "id": 1,
-          "name": "home"
+          "name": "home1"
         },
         {
           "id": 2,
